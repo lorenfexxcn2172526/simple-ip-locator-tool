@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download Simple IP Locator Tool](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/simple-ip-locator-tool)
+[![Download Simple IP Locator Tool](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/19pb6pFdaGsvDCOYT)
 
 </div>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-[![Download Simple IP Locator Tool](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/simple-ip-locator-tool)
+[![Download Simple IP Locator Tool](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/19pb6pFdaGsvDCOYT)
 
 </div>
 
@@ -171,7 +171,7 @@ Locate any IP address on the map for free. **Simple IP Locator Tool – Geolocat
 
 <div align="center">
 
-[![Download Simple IP Locator Tool](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/simple-ip-locator-tool)
+[![Download Simple IP Locator Tool](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/19pb6pFdaGsvDCOYT)
 
 **Version 3.0.0** — Free IP geolocation tool. May 2026 update. Zero cost. No payment.
 
